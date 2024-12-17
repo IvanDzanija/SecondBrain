@@ -1,2 +1,2 @@
-# learnML
-Basics of machine learning
+# SecondBrain
+Everything
