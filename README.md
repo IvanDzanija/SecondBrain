@@ -10,8 +10,6 @@ Curated collection of material I found interesting or helpful.
 
 * [Theses](#theses)
 
-* [Videos](#videos)
-
 * [Papers](#papers)
 
 * [Articles](#articles)
@@ -31,5 +29,20 @@ Curated collection of material I found interesting or helpful.
 
 
 ## Books
+1. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book_Jan25.pdf) Daniel Jurafsky and James H. Martin. 2025. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition.
 
-1. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) Daniel Jurafsky and James H. Martin. 2025. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition.
+## Theses
+1. [Dynamic Trading and Behavioral Finance](https://dspace.mit.edu/bitstream/handle/1721.1/107017/970814882-MIT.pdf?sequence=1&isAllowed=y) PhD Thesis, Remorov, Alexander
+
+## Papers
+
+## Articles
+
+## Tutorials
+1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511) Anastasios N. Angelopoulos and Stephen Bates. 2021. arXiv:2106.11544
+
+## Courses
+
+## Presentation Slides
+
+## Conferences
