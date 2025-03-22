@@ -41,7 +41,8 @@ Curated collection of material I found interesting or helpful.
 
 ## Papers
 
-## Articles
+## Notes & Articles
+1. [Financial Econometrics Notes](https://www.kevinsheppard.com/files/teaching/mfe/notes/financial-econometrics-2020-2021.pdf#page241) Kevin Sheppard. 2021. Financial Econometrics Notes.
 
 ## Tutorials
 1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511) Anastasios N. Angelopoulos and Stephen Bates. 2021. arXiv:2106.11544
