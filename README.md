@@ -35,7 +35,7 @@ Curated collection of material I found interesting or helpful.
 4. [Artificial Intelligence](https://aima.cs.berkeley.edu/) Stuart Russell and Peter Norvig. 2020. Artificial Intelligence: A Modern Approach, 4th edition.
 5. [Probability & Statistics for Engineers & Scientists](https://spada.uns.ac.id/pluginfile.php/221008/mod_resource/content/1/ProbabilityStatistics_for_EngineersScientists%289th_Edition%29_Walpole.pdf) Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, and Keying E. Ye. 2011. Probability & Statistics for Engineers & Scientists, 9th edition.
 6. [Artificial Intelligence](https://www.uoitc.edu.iq/images/documents/informatics-institute/exam_materials/artificial%20intelligence%20structures%20and%20strategies%20for%20%20complex%20problem%20solving.pdf) George F. Luger. 2009. Artificial Intelligence: Structures and Strategies for Complex Problem Solving, 6th edition.
-
+7. [Statistics and Data Analysis for Financial Engineering](eprints.ukh.ac.id/id/eprint/213/1/2015_Book_StatisticsAndDataAnalysisForFi.pdf)
 ## Theses
 1. [Dynamic Trading and Behavioral Finance](https://dspace.mit.edu/bitstream/handle/1721.1/107017/970814882-MIT.pdf?sequence=1&isAllowed=y) PhD Thesis, Alexander Remorov
 
